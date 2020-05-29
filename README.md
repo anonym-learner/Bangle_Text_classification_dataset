@@ -31,4 +31,4 @@ Number of Documents per Category:
 https://drive.google.com/file/d/1sOew2kfLeAi8BsmGhWmOXj0RpOgbLLm-/view?usp=sharing
 
 ## preprocess_text.py
-punctuation marks, digits and special characters are removed. Then each document is tokenized using blank space which results in a list of words. Then stop words are excluded from that list. We have collected 430 Bangla stopwords (stop.txt) that hold no importance in classifying the documents rather increase haziness during the learning session of our models.
+punctuation marks, digits and special characters are removed. Then each document is tokenized using blank space which results in a list of words. Then stop words are excluded from that list. We have collected 430 Bangla stopwords (stop.txt) that hold no importance in classifying the documents rather increase haziness during the learning session of the models.
