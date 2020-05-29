@@ -8,14 +8,14 @@ Total Documents: 2,58,960
 Total Categories: 8
 
  Categories:  
--জাতীয়  
--আন্তর্জাতিক  
--অর্থনীতি  
--খেলাধুলা  
--বিজ্ঞান ও প্রযুক্তি  
--বিনোদন  
--স্বাস্থ্য ও জীবনবিধি  
--শিল্প ও সাহিত্য  
+-জাতীয় (State)  
+-আন্তর্জাতিক (International)
+-অর্থনীতি (Economy) 
+-খেলাধুলা (Sports) 
+-বিজ্ঞান ও প্রযুক্তি (Science and Technology) 
+-বিনোদন (Entertainment)
+-স্বাস্থ্য ও জীবনবিধি (Health and Lifestyle) 
+-শিল্প ও সাহিত্য (Arts and Literature) 
 
 Number of Documents per Category:  
 -জাতীয়: 75,974  
